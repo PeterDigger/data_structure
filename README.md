@@ -2,7 +2,7 @@
 
 Description:
 
-This project aims to support the mentor-mentee program in FKI. 
+This project aims to support the mentor-mentee program in FKI.
 We will develop a program to solve problems, create a solution, do a management or etc.
 
 Group member consisted of:
