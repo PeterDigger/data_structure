@@ -7,5 +7,8 @@ int main()
 {
     hello();
     cout<<"hello";
+
+    cout << "hi Chongo!";
+
     return 0;
 }
